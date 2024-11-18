@@ -9,7 +9,7 @@ import {
 import Link from "next/link";
 
 const HomeTenInner = () => {
-  const pdfFilePath = "/myResume/MuzammilMuradResumWebDeveloper.pdf";
+  const pdfFilePath = "/myResume/MuzammilMuradResumeFrontEnd.pdf";
   return (
     <>
       <div style={{ background: "#021638" }}>
